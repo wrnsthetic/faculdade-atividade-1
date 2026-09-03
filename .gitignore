@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter_config/
+.jupyter_data/
+.jupyter_kernel/
+outputs/
+Data/
+tools/
